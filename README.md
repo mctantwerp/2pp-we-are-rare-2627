@@ -14,4 +14,6 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+
+* [wesley verhulst](./people/Wesley_Verhulst.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
