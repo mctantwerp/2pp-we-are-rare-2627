@@ -14,4 +14,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+* [Sarah Ejdaâ](./people/ejdaa.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
