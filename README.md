@@ -15,3 +15,4 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 * [Matteo Wouters](./people/matteo_wouters.md)
+* [Yevhen Medvedkov](people/yevhen_medvedkov.md)
