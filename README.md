@@ -13,3 +13,6 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
+
+
+Xavier Toussaint
