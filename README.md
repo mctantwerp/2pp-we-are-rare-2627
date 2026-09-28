@@ -14,4 +14,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+* [Ben Lejeune](./people/ben_lejeune.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
