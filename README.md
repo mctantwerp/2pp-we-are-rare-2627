@@ -10,10 +10,20 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Teachers
 
-* [Sam Serrien](./people/sam_serrien.md)
+- [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
-
-
-* [wesley verhulst](./people/Wesley_Verhulst.md)
+* [Innocent Coppieters](./people/innocent_coppieters.md)
+* [Xavier Toussaint](./people/xavier.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
+* [Kiara Ballesteros](./people/kiara_ballesteros.md)
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Yevhen Medvedkov](people/yevhen_medvedkov.md)
+* [Ben Lejeune](./people/ben_lejeune.md)
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Sarah Ejdaâ](./people/ejdaa.md)
+* [Erik Harding](./people/erik_harding.md)
+* [Matteo Wouters](./people/matteo_wouters.md)
+* [Liza Kolumbet](./people/liza_kolumbet.md)
+* [Aicha Achab Tamayo](./people/aicha_achabtamayo.md)
+* [Wesley Verhulst](./people/wesley_verhulst.md)
