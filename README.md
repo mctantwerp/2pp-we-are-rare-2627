@@ -1,4 +1,4 @@
-# We are RARE (24-25)
+# We are RARE (26-27)
 
 Overview of students and teachers of Multimedia & Creative Technologies Rare level 26-27.
 
