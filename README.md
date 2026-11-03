@@ -13,6 +13,7 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
+* [Innocent Coppieters](./people/innocent_coppieters.md)
 * [Xavier Toussaint](./people/xavier.md)
 * [Matteo Wouters](./people/matteo_wouters.md)
 * [Kiara Ballesteros](./people/kiara_ballesteros.md)
